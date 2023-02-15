@@ -41,27 +41,27 @@ Data Cleansing
   - There are no missing values nor duplicated data in dataset.
   
 Exploratory Data Analysis
-  - How is the distribution of rent price?
+  - How is the distribution of rent price? <br>
   ![image](https://user-images.githubusercontent.com/89758536/204075071-5ea97258-d3e2-4900-8cc5-bd1a4195d9ba.png)
   
   As we can see the distribution is positively skewed where the rent distribution is centered around 0-150K
   
-  - Which city has the highest rent?
+  - Which city has the highest rent? <br>
   ![image](https://user-images.githubusercontent.com/89758536/204075867-b4eb5056-104f-47e3-b9af-47a2d00f5a39.png)
   
   Mumbai has the highest rent followed by Delhi. It makes sense because those two are the main cities in India.
   
-  - What furniture status of the houses are rented the most?
+  - What furniture status of the houses are rented the most? <br>
   ![image](https://user-images.githubusercontent.com/89758536/204075778-54f194d3-239f-4f6a-ad10-1aafb66b6165.png)
   
   Semi-Furnished house is the most rented house in each cities. The sales can focus more on marketing semi-furnished house.
   
-  - How is the rent based on Area Type.
+  - How is the rent based on Area Type. <br>
   ![image](https://user-images.githubusercontent.com/89758536/204075965-90d700a4-b357-4144-b405-cf7d9b5410a0.png)
   
   Carpet Area is the highest rent among other area types. It makes sense because carpet area is the most common area type compared to built area and super area.
   
-  - How is the rent based on BHK.
+  - How is the rent based on BHK. <br>
   ![image](https://user-images.githubusercontent.com/89758536/204076247-78bd63de-b8ab-47ce-a446-7573b3f4fbf3.png) <br>
   We found something interesting that houses with 4 or 5 BHK have higher rent than 6 one even though it has one more room. Maybe it is because the location of houses with 6 BHK.
   ![image](https://user-images.githubusercontent.com/89758536/204076315-4b0c247a-aceb-460d-b0e7-16e2afb93c1b.png) <br>
