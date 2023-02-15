@@ -71,8 +71,8 @@ Data preprocessing
   Handling categorical variables
     - One hot encoding was used to handle categorical variables. the columns that one hot encoded are ['Area Type','City', 'Furnishing Status', 'Tenant Preferred',
       'Point of Contact']
-    - Then multicollinearity was checked using variance inflation factor (vif). Then we decide to remove 'Total Floor' and 'Area Type_Super Area'.
-    ![image](https://user-images.githubusercontent.com/89758536/204076599-41e0b521-2acf-45f7-8c9d-43f4cf5611d8.png)
+    - Then multicollinearity was checked using variance inflation factor (vif). Then we decide to remove 'Total Floor' and 'Area Type_Super Area'. <br>
+    ![image](https://user-images.githubusercontent.com/89758536/204076599-41e0b521-2acf-45f7-8c9d-43f4cf5611d8.png) <br>
   Feature Scaling
     -Feature scaling was done using StandardScaler.
     
