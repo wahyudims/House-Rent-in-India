@@ -62,9 +62,9 @@ Exploratory Data Analysis
   Carpet Area is the highest rent among other area types. It makes sense because carpet area is the most common area type compared to built area and super area.
   
   - How is the rent based on BHK.
-  ![image](https://user-images.githubusercontent.com/89758536/204076247-78bd63de-b8ab-47ce-a446-7573b3f4fbf3.png)
+  ![image](https://user-images.githubusercontent.com/89758536/204076247-78bd63de-b8ab-47ce-a446-7573b3f4fbf3.png) <br>
   We found something interesting that houses with 4 or 5 BHK have higher rent than 6 one even though it has one more room. Maybe it is because the location of houses with 6 BHK.
-  ![image](https://user-images.githubusercontent.com/89758536/204076315-4b0c247a-aceb-460d-b0e7-16e2afb93c1b.png)
+  ![image](https://user-images.githubusercontent.com/89758536/204076315-4b0c247a-aceb-460d-b0e7-16e2afb93c1b.png) <br>
   As we can see in major cities like Mumbai, Delhi, and Bangalore, there are no houses with 6 BHK. That is why the rent is lower for houses with 6 BHK compared with 4 or 5.
   
 Data preprocessing
