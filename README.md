@@ -1,4 +1,5 @@
-# House-Rent-in-India
+# House-Rent-in-India <br>
+In this project, I tried to analyse about the house rent prices in various cities of India. My goals are to know what is the characteristics of the most rented house in India and to create a model that can predict the price of rented house.
 
 Objective Statement:
   1. Get bussiness insight the average of house rent for each city.
